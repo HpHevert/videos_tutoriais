@@ -7,7 +7,7 @@ import pyttsx3  # pip install pyttsx3
 import os
 
 # Initialize the API key
-openai.api_key = "sua_key_string"
+openai.api_key = "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"
 
 # caso nao queira falar "assistente" ou "Chat GPT"
 sem_palavra_ativadora = False
